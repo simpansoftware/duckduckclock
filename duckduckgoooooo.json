@@ -1,7 +1,7 @@
 {
   "name": "DuckDuckGo",
   "desc": "DuckDuckGo Browser for Clockwork",
-  "url": "duckduckgo.com",
+  "url": "https://start.duckduckgo.com/",
   "encodedUrl": "no",
   "icon": "https://logodownload.org/wp-content/uploads/2018/02/duckduckgo-logo.png",
   "author": "GamerSimonGD",
